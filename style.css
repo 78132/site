@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(241, 237, 237);
+}
+#image{
+   
+    height: 100px;
+}
+/*CAROUSEL*/
+.bouton{
+    position: relative;
+    right: 600px;
+}
+.carousel-caption{
+    position: relative;
+    top: 220px;
+}
+/*CARD*/
+img{
+    height: 200px;
+    width: 100px;
+}
+/*OFFER*/
+.icone{
+    width: 100px;
+    height: 100px;
+}
+.h2{
+    border: 5px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.images{
+    object-fit: cover;
+    height: 550px;
+}
+
+
